@@ -18,6 +18,7 @@ vision tasks less reliable. This repository provides a semi-supervised flare rem
     - [Evaluation](#evaluation)
   - [Project Structure](#project-structure)
   - [Notes](#notes)
+  - [License](#license)
   - [Acknowledgement](#acknowledgement)
 
 ## Installation
@@ -150,6 +151,11 @@ python evaluate.py \
 ```
 
 The script reports average image quality metrics in the terminal.
+
+## License
+
+This project is licensed under the S-Lab License 1.0. Redistribution and use
+should follow this license.
 
 ## Acknowledgement
 
